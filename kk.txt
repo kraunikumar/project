@@ -1,7 +1,11 @@
 jjjj
+<<<<<<< HEAD
 hello world1
 <<<<<<< HEAD
 11
 =======
 lkr
 >>>>>>> origin/master
+=======
+hello world
+>>>>>>> parent of a10165c... upadted
