@@ -1,3 +1,7 @@
 jjjj
 hello world1
+<<<<<<< HEAD
 11
+=======
+lkr
+>>>>>>> origin/master
